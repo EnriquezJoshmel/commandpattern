@@ -1,7 +1,6 @@
 package commandPattern;
 
 public class PowerOff implements Command{
-
     private Tv tv;
 
     public PowerOff(Tv tv){
